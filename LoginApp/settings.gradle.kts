@@ -1,4 +1,4 @@
-pluginManagement {
+ktrmhkghpluginManagement {
     repositories {
         google {
             content {
